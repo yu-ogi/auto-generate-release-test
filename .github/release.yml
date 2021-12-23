@@ -1,0 +1,23 @@
+changelog:
+  categories:
+    - title: Breaking Changes
+      labels:
+        - breaking
+    - title: Enhancement
+      labels:
+        - enhancement
+    - title: Bug Fix
+      labels:
+        - bug
+    - title: Documentation
+      labels:
+        - documentation
+    - title: Update Dependencies
+      labels:
+        - dependencies
+    - title: Republish
+      labels:
+        - republish
+    - title: Other Changes
+      labels:
+        - other
